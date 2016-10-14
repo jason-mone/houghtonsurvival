@@ -1707,7 +1707,8 @@ paper-toolbar a {
   border-bottom-left-radius: 7px;
   border-bottom-right-radius: 7px;
   padding-left: 35px;
-  padding-right: 35px; }
+  padding-right: 35px;
+  padding-bottom: 10px; }
   .description p a {
     text-decoration: none;
     color: #b6bfc6;
@@ -1766,9 +1767,13 @@ ul.tab {
   padding: 6px 12px;
   border-top: none; }
 
-paper-toolbar a img, paper-toolbar a h1 {
+paper-toolbar a img {
   display: inline-block;
-  margin-top: 5px; }
+  margin-top: -13px; }
+
+paper-toolbar a h1 {
+  display: inline-block;
+  margin-top: 15px; }
 
 .pagination {
   background: #fff;
@@ -2211,7 +2216,7 @@ aside {
   background: #eff2f3;
   padding: 10px;
   border-radius: 5px;
-  min-width: 350px;
+  min-width: 315px;
   margin-right: 20px;
   margin-top: 20px;
   margin-bottom: 20px; }
@@ -2240,7 +2245,7 @@ aside {
     text-decoration: none;
     font-size: 15px;
     padding: 5px;
-    width: 125px;
+    width: 100px;
     text-align: center;
     display: inline-block;
     margin-bottom: 3px;
