@@ -1892,7 +1892,7 @@ aside {
         width: 22px;
         margin-top: 6px; }
       aside label[for="tut"] div:nth-child(2) span:nth-child(2) {
-        background: url("../img/path-6.svg") no-repeat 50%;
+        background: url("../img/2269005571.svg") no-repeat 50%;
         width: 10px;
         height: 10px;
         margin-top: -5px; }
@@ -2195,12 +2195,15 @@ aside {
   background: url("../img/2401541622.png") no-repeat;
   background-position: center;
   background-size: cover; }
+  .bg2 .small-5 {
+    display: flex;
+    justify-content: center; }
   .bg2 h1, .bg2 em {
     color: #fff; }
   .bg2 img {
     width: 270px;
-    margin: auto;
     display: block;
+    align-self: center;
     margin-top: 25px; }
 
 .bg2 + div .small-6 img {
@@ -2254,14 +2257,12 @@ aside {
     list-style-type: none; }
 
 footer {
-  position: absolute;
-  bottom: 0; }
-
-.footer-flex {
-  width: 100%;
-  display: flex;
-  justify-content: center; }
-  .footer-flex a {
+  width: 100%; }
+  footer .small-12 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end; }
+  footer a {
     margin-left: 5px;
     text-decoration: none;
     color: grey; }
