@@ -1695,7 +1695,10 @@ iron-icon {
 
 paper-toolbar a {
   text-decoration: none;
-  color: #ff9e57; }
+  color: #ff9e57;
+  font-size: 20px; }
+  paper-toolbar a h1 {
+    font-size: 20px; }
 
 .instructor span {
   font-size: 20px;
@@ -1766,14 +1769,6 @@ ul.tab {
   display: block;
   padding: 6px 12px;
   border-top: none; }
-
-paper-toolbar a img {
-  display: inline-block;
-  margin-top: -13px; }
-
-paper-toolbar a h1 {
-  display: inline-block;
-  margin-top: 15px; }
 
 .pagination {
   background: #fff;
@@ -1854,10 +1849,12 @@ aside {
     display: flex;
     justify-content: center;
     align-items: center; }
-    aside .logo h1 {
-      margin-left: 15px;
-      font-size: 20px;
-      color: #fff; }
+    aside .logo a {
+      text-decoration: none;
+      color: #fff;
+      font-size: 18px; }
+    aside .logo span {
+      margin-left: 10px; }
     aside .logo img {
       width: 50px; }
   aside input {
