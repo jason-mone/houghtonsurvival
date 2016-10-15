@@ -1632,7 +1632,7 @@ button {
 body {
   font: 14px/1.6 "roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
-  background-color: #f0eeed;
+  background-color: #f9f7f6;
   height: 100vh;
   color: #b6bfc6; }
 
@@ -1798,7 +1798,7 @@ paper-toolbar a h1 {
     margin-left: 3px; }
 
 .pagination > div > a:first-of-type {
-  background: #D4D9DD url("../img/group-3.svg") no-repeat 50%;
+  background: #D4D9DD url("../img/2515409617.svg") no-repeat 50%;
   background-position: 50%;
   border-top-left-radius: 7px;
   border-bottom-left-radius: 7px; }
@@ -1806,7 +1806,7 @@ paper-toolbar a h1 {
 .pagination > div > a:last-of-type {
   border-top-left-radius: 7px;
   border-bottom-left-radius: 7px;
-  background: #d4d9dd url("../img/group-3.svg") no-repeat 50%;
+  background: #d4d9dd url("../img/2515409617.svg") no-repeat 50%;
   background-size: 20px;
   background-position: 50%;
   transform: rotate(180deg); }
@@ -1816,19 +1816,19 @@ iron-pages > section > section > .pagination > div {
   justify-content: center; }
 
 iron-pages > section:first-of-type > section:last-of-type > .pagination > div > a:first-of-type {
-  background: #edeff0 url("../img/group-3.svg") no-repeat 50%;
+  background: #edeff0 url("../img/2515409617.svg") no-repeat 50%;
   background-size: 20px;
   background-position: 50%;
   cursor: default; }
 
 iron-pages > section > section:last-of-type > .pagination > div > a:first-of-type {
-  background: #d4d9dd url("../img/group-3.svg") no-repeat 50%;
+  background: #d4d9dd url("../img/2515409617.svg") no-repeat 50%;
   background-size: 20px;
   background-position: 50%;
   cursor: pointer; }
 
 iron-pages > section:last-of-type > section:last-of-type > .pagination > div > a:last-of-type {
-  background: #edeff0 url("../img/group-3.svg") no-repeat 50%;
+  background: #edeff0 url("../img/2515409617.svg") no-repeat 50%;
   background-size: 20px;
   background-position: 50%;
   cursor: default; }
@@ -1932,7 +1932,7 @@ aside {
     display: inline-block;
     transform: translateX(-12px); }
   aside li > .checked > span {
-    background: #61544b url("../img/waypoint-checkmark-dcab5.svg") no-repeat 50%;
+    background: #61544b url("../img/7652367038.svg") no-repeat 50%;
     background-position: 50%; }
   aside li > .active > span {
     background: #2e3d49;
@@ -2124,7 +2124,6 @@ aside {
   .book a {
     align-self: center;
     display: inline-block;
-    background: url("../img/play.svg") no-repeat;
     background-size: contain;
     background-position: center;
     height: 50px;
@@ -2148,7 +2147,7 @@ aside {
     color: white;
     align-items: center;
     justify-content: center;
-    background: url("../img/pem.png") no-repeat;
+    background: url("../img/4160736529.png") no-repeat;
     background-size: cover;
     background-position: center; }
     .course .thumb div {
@@ -2158,7 +2157,7 @@ aside {
       .course .thumb div div {
         width: 50px;
         height: 50px;
-        background: url("../img/play.svg") no-repeat;
+        background: url("../img/3214532092.svg") no-repeat;
         background-size: cover;
         background-position: center; }
       .course .thumb div div, .course .thumb div h1, .course .thumb div span {
@@ -2193,7 +2192,7 @@ aside {
     width: 47px; }
 
 .bg2 {
-  background: url("../img/woods.png") no-repeat;
+  background: url("../img/2401541622.png") no-repeat;
   background-position: center;
   background-size: cover; }
   .bg2 h1, .bg2 em {
