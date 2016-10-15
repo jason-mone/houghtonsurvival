@@ -6,5 +6,5 @@ function goHome(){
   window.location.href = '/';
 }
 function goBook(){
-    window.location.href = '/public/the-lost-ways.html';
+    window.location.href = '/public/the-lost-ways';
   }
