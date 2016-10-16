@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" xmlns="http://www.w3.org/2000/svg" height="5px" width="9px" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 9 5">
-<title>icon_expand-arrow-small</title>
-<desc>Created with sketchtool.</desc>
-<g fill-rule="evenodd" sketch:type="MSPage" fill="none">
-<g id="icons" transform="translate(-205 -205)" sketch:type="MSArtboardGroup">
-<g id="icon_expand-arrow-small" transform="translate(198 196)" sketch:type="MSLayerGroup">
-<rect id="bounds" fill-opacity="0" sketch:type="MSShapeGroup" transform="translate(12 12) rotate(90) translate(-12 -12)" width="24" y="0" x="0" height="24" fill="#D8D8D8"/>
-<path id="Shape" sketch:type="MSShapeGroup" fill="#fff" d="m13.3 7.08l-4.04 4.02c-0.2 0.2-0.2 0.5 0 0.7l4.04 4 0.7-0.7-3.7-3.6 3.7-3.62-0.7-0.8z" transform="translate(11.5 11.4) rotate(90) translate(-11.5 -11.4)"/>
-</g>
-</g>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="5" width="9" viewBox="0 0 9 5"><title>icon_expand-arrow-small</title><g fill-rule="evenodd" fill="none"><path fill="none" d="M17-9v24H-7V-9z"/><path fill="#fff" d="M8.82 4.2L4.8.16c-.2-.2-.5-.2-.7 0L.1 4.2l.7.7 3.6-3.7 3.62 3.7.8-.7z"/></g></svg>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Testaankoops voor de beste prijs test35</title>
+    <title>Houghton Survival</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 15 Oct 2016 08:38:27 +0200</pubDate>
-    <lastBuildDate>Sat, 15 Oct 2016 08:38:27 +0200</lastBuildDate>
+    <pubDate>Sat, 15 Oct 2016 21:33:38 +0200</pubDate>
+    <lastBuildDate>Sat, 15 Oct 2016 21:33:38 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -51,7 +51,7 @@
     &lt;section class=&quot;column small-3&quot;&gt;
       &lt;div class=&quot;pagination&quot;&gt;
         &lt;span&gt;Introduction&lt;/span&gt;
-        &lt;p&gt;Making Pemmican&lt;/p&gt;
+        &lt;h3&gt;Making Pemmican&lt;/h3&gt;
         &lt;div class=&quot;&quot;&gt;
           &lt;a href=&quot;#/introduction&quot; class=&quot;steplink-prev&quot; id=&quot;step0&quot;&gt;&lt;/a&gt;
           &lt;a href=&quot;#/getting-started&quot; class=&quot;steplink-next&quot; id=&quot;step1&quot;&gt;&lt;/a&gt;
@@ -62,7 +62,7 @@
           &lt;p&gt;
             &lt;b&gt;Claude Davis&lt;/b&gt;
             &lt;br /&gt;
-            &lt;img src=&quot;/assets/img/author.png&quot; alt=&quot;&quot; /&gt;
+            &lt;img src=&quot;/assets/img/0197639421.png&quot; alt=&quot;&quot; /&gt;
             This guide was made by Claude Davis survival expert, who himself lives in a self-assembled log cabin with his two youngsters. Claude likewise reconnects with our ancestors by cooking outside on an open fire and more. He wants to share his love by contributing this book to the prep-community.
           &lt;/p&gt;
       &lt;/div&gt;
@@ -112,7 +112,7 @@
     &lt;section class=&quot;column small-3&quot;&gt;
       &lt;div class=&quot;pagination&quot;&gt;
         &lt;span&gt;Step 1&lt;/span&gt;
-        &lt;p&gt;Getting started …&lt;/p&gt;
+        &lt;h3&gt;Getting started …&lt;/h3&gt;
         &lt;div class=&quot;&quot;&gt;
           &lt;a href=&quot;#/introduction&quot; class=&quot;steplink-prev&quot; id=&quot;step0&quot;&gt;&lt;/a&gt;
           &lt;a href=&quot;#/rendering-the-fat&quot; class=&quot;steplink-next&quot; id=&quot;step2&quot;&gt;&lt;/a&gt;
@@ -123,7 +123,7 @@
           &lt;p&gt;
             &lt;b&gt;Claude Davis&lt;/b&gt;
             &lt;br /&gt;
-            &lt;img src=&quot;/assets/img/author.png&quot; alt=&quot;&quot; /&gt;
+            &lt;img src=&quot;/assets/img/0197639421.png&quot; alt=&quot;&quot; /&gt;
             This guide was made by Claude Davis survival expert, who himself lives in a self-assembled log cabin with his two youngsters. Claude likewise reconnects with our ancestors by cooking outside on an open fire and more. He wants to share his love by contributing this book to the prep-community.
           &lt;/p&gt;
       &lt;/div&gt;
@@ -167,7 +167,7 @@
     &lt;section class=&quot;column small-3&quot;&gt;
       &lt;div class=&quot;pagination&quot;&gt;
         &lt;span&gt;Step 2&lt;/span&gt;
-        &lt;p&gt;rendering the fat …&lt;/p&gt;
+        &lt;h3&gt;rendering the fat …&lt;/h3&gt;
         &lt;div class=&quot;&quot;&gt;
           &lt;a href=&quot;#/getting-started&quot; class=&quot;steplink-prev&quot; id=&quot;step1&quot;&gt;&lt;/a&gt;
           &lt;a href=&quot;#/mixing-the-ingredients&quot; class=&quot;steplink-next&quot; id=&quot;step3&quot;&gt;&lt;/a&gt;
@@ -178,7 +178,7 @@
           &lt;p&gt;
             &lt;b&gt;Claude Davis&lt;/b&gt;
             &lt;br /&gt;
-            &lt;img src=&quot;/assets/img/author.png&quot; alt=&quot;&quot; /&gt;
+            &lt;img src=&quot;/assets/img/0197639421.png&quot; alt=&quot;&quot; /&gt;
             This guide was made by Claude Davis survival expert, who himself lives in a self-assembled log cabin with his two youngsters. Claude likewise reconnects with our ancestors by cooking outside on an open fire and more. He wants to share his love by contributing this book to the prep-community.
           &lt;/p&gt;
       &lt;/div&gt;
@@ -203,7 +203,7 @@
         &lt;ul class=&quot;content&quot;&gt;
           &lt;div class=&quot;tabcontent active-tabcontent&quot;&gt;
             &lt;h3&gt;Book&lt;/h3&gt;
-            &lt;a href=&quot;/public/the-lost-ways.html&quot; id=&quot;lostlink&quot;&gt;The Lost Ways by Claude Davis&lt;/a&gt;
+            &lt;a href=&quot;/public/the-lost-ways&quot; id=&quot;lostlink&quot;&gt;The Lost Ways by Claude Davis&lt;/a&gt;
           &lt;/div&gt;
 
           &lt;div class=&quot;tabcontent&quot;&gt;
@@ -222,7 +222,7 @@
     &lt;section class=&quot;column small-3&quot;&gt;
       &lt;div class=&quot;pagination&quot;&gt;
         &lt;span&gt;Step 3&lt;/span&gt;
-        &lt;p&gt;mixing the ingredients …&lt;/p&gt;
+        &lt;h3&gt;mixing the ingredients …&lt;/h3&gt;
         &lt;div class=&quot;&quot;&gt;
           &lt;a href=&quot;#/rendering-the-fat&quot; class=&quot;steplink-prev&quot; id=&quot;step2&quot;&gt;&lt;/a&gt;
           &lt;a href=&quot;#/mixing-the-ingredients&quot; class=&quot;steplink-next&quot; id=&quot;step4&quot;&gt;&lt;/a&gt;
@@ -233,7 +233,7 @@
           &lt;p&gt;
             &lt;b&gt;Claude Davis&lt;/b&gt;
             &lt;br /&gt;
-            &lt;img src=&quot;/assets/img/author.png&quot; alt=&quot;&quot; /&gt;
+            &lt;img src=&quot;/assets/img/0197639421.png&quot; alt=&quot;&quot; /&gt;
             This guide was made by Claude Davis survival expert, who himself lives in a self-assembled log cabin with his two youngsters. Claude likewise reconnects with our ancestors by cooking outside on an open fire and more. He wants to share his love by contributing this book to the prep-community.
           &lt;/p&gt;
       &lt;/div&gt;
@@ -257,6 +257,17 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Post</title>
+        <description>
+</description>
+        <pubDate>Wed, 31 Aug 2016 00:00:00 +0200</pubDate>
+        <link>/post</link>
+        <guid isPermaLink="true">/post</guid>
+        
         
       </item>
     
