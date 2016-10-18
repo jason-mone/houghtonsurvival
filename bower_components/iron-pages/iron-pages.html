@@ -3,7 +3,10 @@
       }
 
       :host > ::content > :not(.iron-selected) {
-        display: none !important;
+        visibility: hidden;
+        margin-top: 0;
+        overflow: hidden;
+        height: 0
       }</style><content></content></template><script>Polymer({
 
       is: 'iron-pages',
